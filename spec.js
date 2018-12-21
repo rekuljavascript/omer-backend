@@ -7,6 +7,8 @@ var cn = {
     password:'abc'
 };
 
+// my coments on this soec
+
 var db = pgp(cn);
 
 var arr = [];
